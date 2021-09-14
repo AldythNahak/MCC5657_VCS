@@ -1,3 +1,1 @@
 List rencana membeli barang di supermarket :
-1. Ayam
-2. Ikan
