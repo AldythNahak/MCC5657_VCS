@@ -1,1 +1,1 @@
-console.log("Saya Senang Belajar Git dan GitHub setiap hari");
+console.log("Saat ini Saya Sedang Belajar Git dan GitHub");
