@@ -1,6 +1,9 @@
 List rencana membeli barang di supermarket :
+<<<<<<< HEAD
 1. Apel
 2. Anggur
 3. Ayam
 4. Mangga
 
+=======
+>>>>>>> origin
