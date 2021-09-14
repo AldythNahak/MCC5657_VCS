@@ -1,0 +1,13 @@
+Git
+-Arya
+-Aldyth
+-Sendy
+
+public repo
+colaborator
+clone
+branch
+push
+fetch
+merge
+pull
