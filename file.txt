@@ -1,4 +1,3 @@
 List rencana membeli barang di supermarket :
-1. Apel
-2. Anggur
-3. Pisang
+1. Ayam
+2. Ikan
