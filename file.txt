@@ -1,6 +1,11 @@
 List rencana membeli barang di supermarket :
+=======
 1. Apel
 2. Anggur
 3. Ayam
+2. Ayam
+3. Anggur
 4. Mangga
+
+
 
