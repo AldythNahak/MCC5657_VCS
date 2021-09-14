@@ -3,7 +3,7 @@ Git
 -Aldyth
 -Sendy
 
-public repo
+public repository
 colaborator
 clone
 branch
