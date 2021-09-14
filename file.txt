@@ -1,3 +1,4 @@
 List rencana membeli barang di supermarket :
 1. Ikan
-2. Nasi
+2. Ayam 
+3. Sayur
